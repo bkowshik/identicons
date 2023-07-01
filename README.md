@@ -1,4 +1,8 @@
-# identicons
+# Identicons
+
+Ref: https://bkowshik-identicon.streamlit.app/
+
+![](./identicons.png)
 
 
 ## Setup
@@ -22,7 +26,7 @@ streamlit run identicons.py
 _NOTE: Python dependencies were identified automatically using_ [bndr/pipreqs](https://github.com/bndr/pipreqs).
 
 ```bash
-$ cd identicons
+cd identicons
 
 pip install pipreqs
 pipreqs .
