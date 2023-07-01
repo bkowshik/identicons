@@ -1,0 +1,5 @@
+cohere==4.11.2
+matplotlib==3.7.1
+numpy==1.24.3
+seaborn==0.12.2
+streamlit==1.24.0
