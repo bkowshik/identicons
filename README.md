@@ -1,6 +1,6 @@
 # Identicons
 
-Ref: https://bkowshik-identicon.streamlit.app/
+Ref: https://bkowshik-identicons.streamlit.app/
 
 ![](./identicons.png)
 
